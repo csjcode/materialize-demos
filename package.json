@@ -1,0 +1,23 @@
+{
+  "name": "materialize-demos",
+  "version": "1.0.0",
+  "description": "This a small directory of Google Material Design demos I'm working on, to review and stay organized with the Material components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csjcode/materialize-demos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csjcode/materialize-demos/issues"
+  },
+  "homepage": "https://github.com/csjcode/materialize-demos#readme",
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "materialize-css": "^0.97.6"
+  }
+}
